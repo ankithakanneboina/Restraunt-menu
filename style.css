@@ -1,0 +1,68 @@
+*{
+    background-color: bisque;
+
+}
+.sec1{
+    justify-content: center;
+}
+.box{
+    height:200vh;
+    border: 20px solid rgb(224, 103, 103);
+}
+.sec1 h1{
+    text-align: center;
+    font-size: 45px;
+}
+.sec1 h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    line-height: normal;
+
+}
+.sec1 h3,h4{
+    text-align: center;
+    color:rgb(80, 24, 24)
+}
+.i3{
+    width:400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height:275px;
+    cursor: pointer;
+}
+.i1{
+    width:400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+
+}
+
+.i2{
+    width:400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 390px;
+    object-fit: fill;
+    cursor: pointer;
+}
+.h4{
+    text-align: center;
+    color: blueviolet;
+
+}
+.h4:hover{
+    color: olivedrab;
+
+}
+.h1{
+    text-align: center;
+    color: rgb(224, 103, 103);
+}
+.h1:hover{
+color:burlywood;
+}
+.sec2{
+    margin-left:50px;
+}
